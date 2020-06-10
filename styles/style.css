@@ -31,6 +31,7 @@
   width: 183px;
   background-image: url("../images/logo_place_header.svg");
 }
+
 .header__title {
   display: flex;
   position: relative;
@@ -42,6 +43,7 @@
   font-size: 102px;
   align-items: center;
 }
+
 .header__main-illustraition {
   position: absolute;
   width: 765px;
@@ -57,8 +59,6 @@
   text-decoration: none;
   color: #2f80ed;
 }
-
-
 
 .header__subtitle {
   width: 388px;
@@ -101,7 +101,6 @@
   width: 80%;
   margin: auto;
   margin-top: 100px;
-
 }
 
 .two-columns__brief {
@@ -161,7 +160,7 @@
   display: flex;
   width: 1100px;
   flex-wrap: wrap;
-  margin: 0 auto ;
+  margin: 0 auto;
   justify-content: space-between;
 }
 
@@ -345,8 +344,6 @@
   list-style: none;
 }
 
-
-
 .footer__content_social {
   display: flex;
   flex-direction: column;
@@ -361,4 +358,3 @@
   height: 16px;
   background-size: cover;
 }
-
