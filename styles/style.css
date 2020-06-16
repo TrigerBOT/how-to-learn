@@ -17,6 +17,7 @@
   max-height: 756px;
   background-color: #f2f2f2;
   /* выше установили ограничения для секции */
+  align-items: center;
 }
 
 .logo {
@@ -35,10 +36,9 @@
 
 .header__title{
   display:flex;
-  position: relative;
+  margin-left: 64px;
   width: 730px;
-  top: 30%;
-  left: 64px;
+  align-self: center;
   line-height: 96px;
   font-size: 102px;
   margin-top: 0;
