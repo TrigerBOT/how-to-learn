@@ -1,7 +1,7 @@
 .logo_place_footer {
     display: flex;
     background-size: cover;
-    background-image: url("/Users/Ykon/how-to-learn/images/logo_place_footer.svg");
+    background-image: url("../../../../images/logo_place_footer.svg");
     height: 32px;
     width: 183px;
   }

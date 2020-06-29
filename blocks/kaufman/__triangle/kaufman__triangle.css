@@ -1,17 +1,12 @@
-@import url(/blocks/rotation/rotation.css);
+
 .kaufman__triangle {
     position: absolute;
     margin-left: auto;
     width: 877px;
     height: 877px;
-    background-image: url("/Users/Ykon/how-to-learn/images/kaufman-triangle.svg");
+    background-image: url("../../../images/kaufman-triangle.svg");
     z-index: -1;
     right: -210px;
     top: 0px;
     background-size: contain;
-    animation-name: rotation;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-    animation-delay: .5s;
   }
