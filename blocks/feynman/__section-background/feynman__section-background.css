@@ -1,0 +1,9 @@
+.feynman__section-background {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 867px;
+    height: 637px;
+    z-index: 0;
+    background-size: cover;
+  }
