@@ -1,7 +1,4 @@
 .footer__column_content_social {
-    display: flex;
-    flex-direction: column;
     justify-content: right;
-    margin: 0;
     line-height: 30px;
   }

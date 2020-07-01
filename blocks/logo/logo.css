@@ -3,5 +3,7 @@
 .logo {
     display: flex;
     background-size: cover;
+    height: 32px;
+    width: 183px;
   }
   
